@@ -1,4 +1,4 @@
-import json
+eimport json
 # PLAZA_ID = {"001101": {"Facility": "Suncoast Parkway","Vendor": "Infinity","Plaza Name": "SR589 Oak Hammock Main NB MP49","Building #": "8091"}
 #
 #
@@ -457,7 +457,7 @@ import json
 #
 # }
 
-database_filename = r'C:\Users\kn849jw\Desktop\Projects\App_Database.txt'
+database_filename = r'C:\Users\username\Desktop\Projects\App_Database.txt'
 with open(database_filename) as file:
     PASSWORDS = json.load(file)
 
