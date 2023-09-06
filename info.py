@@ -1,4 +1,4 @@
-eimport json
+import json
 # PLAZA_ID = {"001101": {"Facility": "Suncoast Parkway","Vendor": "Infinity","Plaza Name": "SR589 Oak Hammock Main NB MP49","Building #": "8091"}
 #
 #
